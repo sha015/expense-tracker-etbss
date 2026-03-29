@@ -1,7 +1,6 @@
 # Expense Tracker – ETBSS
 
-This project is a simple Expense Tracker application developed using Flutter.  
-It allows users to record their daily expenses, monitor spending patterns, and manage budgets effectively.
+**ETBSS (Expense Tracker for Budgeting and Spending System)** is a simple Flutter application developed to track daily expenses, manage budgets, and monitor spending habits.
 
 ---
 
@@ -21,7 +20,7 @@ It allows users to record their daily expenses, monitor spending patterns, and m
 ## Technologies Used
 
 - Flutter (Dart)  
-- SharedPreferences (for local storage)  
+- SharedPreferences (local storage)  
 - Material UI  
 
 ---
@@ -33,7 +32,7 @@ lib/
 - widgets → UI components  
 - main.dart → main application logic  
 
-assets/ → images and other resources  
+assets/ → images and resources  
 
 ---
 
@@ -56,7 +55,7 @@ assets/ → images and other resources
 ## Purpose
 
 This project was developed as part of my learning in Flutter.  
-It helped me understand state management, local data storage, and UI design in mobile applications.
+It helped me understand how to manage data locally and design simple user interfaces.
 
 ---
 
