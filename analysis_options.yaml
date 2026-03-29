@@ -1,0 +1,7 @@
+include: package:flutter_lints/flutter_lints.yaml
+
+linter:
+  rules:
+    prefer_const_constructors: true
+    prefer_final_fields: true
+    always_use_package_imports: true
