@@ -63,3 +63,9 @@ It helped me understand how to manage data locally and design simple user interf
 
 Sharath Chandra Kumar M S  
 MSc Data Science Student
+
+---
+
+## Copyright
+
+© 2025 Sharath Chandra Kumar M S. All Rights Reserved.
