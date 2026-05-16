@@ -1,71 +1,55 @@
 # Expense Tracker – ETBSS
 
-**ETBSS (Expense Tracker for Budgeting and Spending System)** is a simple Flutter application developed to track daily expenses, manage budgets, and monitor spending habits.
+Expense Tracker – ETBSS is a Flutter-based mobile application developed for tracking daily expenses, managing budgets, and monitoring spending habits.
 
 ---
 
 ## Features
 
-- Add and delete expense entries  
-- Track daily and monthly expenses  
-- Set daily and monthly spending limits  
-- Alert when daily limit is exceeded  
-- View expenses using charts  
-- Switch between light and dark themes  
-- Dashboard for overall expense summary  
-- Data stored locally using SharedPreferences  
+- Add and delete expense entries
+- Track daily and monthly expenses
+- Set spending limits
+- Expense visualization using charts
+- Dashboard for expense summaries
+- Light and dark theme support
+- Local data storage using SharedPreferences
 
 ---
 
 ## Technologies Used
 
-- Flutter (Dart)  
-- SharedPreferences (local storage)  
-- Material UI  
+- Flutter
+- Dart
+- SharedPreferences
+- Material UI
 
 ---
 
 ## Project Structure
 
-lib/  
-- models → contains data models  
-- widgets → UI components  
-- main.dart → main application logic  
+```text
+lib/
+├── models/
+├── widgets/
+├── screens/
+└── main.dart
 
-assets/ → images and resources  
-
----
-
-## How to Run
-
-1. Clone the repository  
-   git clone https://github.com/sha015/expense-tracker-etbss.git  
-
-2. Navigate to the project folder  
-   cd expense-tracker-etbss  
-
-3. Install dependencies  
-   flutter pub get  
-
-4. Run the application  
-   flutter run  
-
----
-
-## Purpose
-
-This project was developed as part of my learning in Flutter.  
-It helped me understand how to manage data locally and design simple user interfaces.
+assets/
+└── images/
+```
 
 ---
 
 ## Author
 
-Sharath Chandra Kumar M S  
-MSc Data Science Student
+**Sharath Chandra Kumar M S**
 
 ---
 
-## Copyright
+## License
 
-© 2025 Sharath Chandra Kumar M S. All Rights Reserved.
+Copyright © 2025 Sharath Chandra Kumar M S.
+
+All Rights Reserved.
+
+This project and its source code are proprietary. Unauthorized copying, modification, distribution, or use of this software is strictly prohibited without explicit written permission from the author.
